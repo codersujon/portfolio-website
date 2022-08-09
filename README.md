@@ -2,15 +2,16 @@
 
 ## Site Deploy to Netlify
 
-- [Live Demo](https://codersujon.netlify.app/)
+- [Live Demo](https://codersujon.netlify.app/) [GitHub] (https://github.com/positiveworldbd/portfolio-website/)
 
 
-# Mandatory Requirements-
+## Mandatory Requirements-
 - VueJS (version 3) Install
 - UI library (Tailwind) Install
 
-# Optional Requirements-
+## Optional Requirements-
 
 - Single Page Application (SPA)
-- Use vue-router
+- vue-router Install
+    <!-- TODO Use Vue-Router-->
 
