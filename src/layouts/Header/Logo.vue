@@ -7,25 +7,5 @@
 </template>
 
 <script>
-export default {
-    name: 'PortfolioWebsiteLogo',
 
-    data() {
-        return {
-            
-        };
-    },
 
-    mounted() {
-        
-    },
-
-    methods: {
-        
-    },
-};
-</script>
-
-<style scoped>
-
-</style>

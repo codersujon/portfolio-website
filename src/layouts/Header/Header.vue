@@ -1,6 +1,6 @@
 <template>  
-    <header class="header bg-slate-900">
-        <div class="sm:container sm:mx-auto flex justify-between items-center">
+    <header class="header bg-slate-900 py-5">
+        <div class="sm:container sm:mx-auto flex md:flex-row justify-between items-center text-left">
             <LogoVue />
             <NavbarVue />
         </div>
@@ -34,7 +34,3 @@ export default {
     },
 };
 </script>
-
-<style scoped>
-
-</style>
