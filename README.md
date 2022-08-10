@@ -2,7 +2,7 @@
 
 ## Site Deploy to Netlify
 
-- [Live Demo](https://codersujon.netlify.app/) [GitHub] (https://github.com/positiveworldbd/portfolio-website/)
+- [Live Demo](https://codersujon.netlify.app/) + [GitHub] (https://github.com/positiveworldbd/portfolio-website/)
 
 
 ## Mandatory Requirements-

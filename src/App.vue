@@ -1,11 +1,9 @@
 <template>
-  <div class="h-screen flex justify-center items-center flex-col space-y-4 bg-slate-100">
-    <img src="/favicon.ico" alt="">
-    <h1 class="text-5xl text-slate-600">Portfolio Website</h1>
-  </div>
+    <HeaderVue/>
 </template>
 
 <script>
+import HeaderVue from './layouts/Header/Header.vue';
 export default {
   name: 'PortfolioWebsiteApp',
 
@@ -13,6 +11,10 @@ export default {
     return {
       
     };
+  },
+
+  components: {
+    HeaderVue
   },
 
   mounted() {
@@ -25,6 +27,6 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>
