@@ -5,11 +5,11 @@
             <div class="footerTop__socials text-white flex justify-between flex-col sm:flex-col md:flex-row px-4">
                 <div class="footerTop__widget text-left my-2 sm:my-4">
                     <span class="capitalize text-slate-100 inline-block mb-1">call</span>
-                    <p class="text-2xl sm:4xl font-medium">+8801970 366 446</p>
+                    <p class="text-3xl  font-medium">+8801970 366 446</p>
                 </div>
                 <div class="footerTop__widget text-left my-2 sm:my-4">
                     <span class="capitalize text-slate-100 inline-block mb-1">email:</span>
-                    <p class="text-2xl sm:4xl font-medium">csesujon155@gmail.com</p>
+                    <p class="text-3xl  font-medium">csesujon155@gmail.com</p>
                 </div>
                 <div class="footerTop__widget text-left my-2 sm:my-4">
                     <span class="capitalize text-slate-100 inline-block mb-1">follow me:</span>
