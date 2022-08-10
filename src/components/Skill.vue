@@ -50,10 +50,10 @@
                         <img src="/assets/images/skill/typescript.png" alt="typescript" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">typescript</h4>
                     </div> -->
-                    <div class="skill__item m-auto text-center">
+                    <!-- <div class="skill__item m-auto text-center">
                         <img src="/assets/images/skill/php.png" alt="php" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">php</h4>
-                    </div>
+                    </div> -->
                     <div class="skill__item m-auto text-center">
                         <img src="/assets/images/skill/mysql.png" alt="mysql" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">mysql</h4>
