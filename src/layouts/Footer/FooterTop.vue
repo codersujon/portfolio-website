@@ -13,14 +13,14 @@
                 </div>
                 <div class="footerTop__widget text-left my-2 sm:my-4">
                     <span class="capitalize text-slate-100 inline-block mb-1">follow me:</span>
-                    <div class="social__icons flex space-x-2">
-                        <a href="https://www.facebook.com/CoderSujon/" class="w-10 h-10 leading-10 bg-red-600 text-center rounded-full hover:bg-white hover:text-red-600 transition duration-200 ease-in" target="_blank">
+                    <div class="social__icons flex space-x-3">
+                        <a href="https://www.facebook.com/CoderSujon/" class="w-10 h-10 leading-10 bg-red-600 text-center rounded-sm hover:bg-white hover:text-red-600 transition duration-200 ease-in" target="_blank">
                             <i class="fa-brands fa-facebook-f"></i>
                         </a>
-                        <a href="https://www.linkedin.com/in/codersujon/" class="w-10 h-10 leading-10 bg-red-600 text-center rounded-full hover:bg-white hover:text-red-600 transition duration-200 ease-in" target="_blank">
+                        <a href="https://www.linkedin.com/in/codersujon/" class="w-10 h-10 leading-10 bg-red-600 text-center rounded-sm hover:bg-white hover:text-red-600 transition duration-200 ease-in" target="_blank">
                             <i class="fa-brands fa-linkedin-in"></i>
                         </a>
-                        <a href="https://github.com/positiveworldbd" class="w-10 h-10 leading-10 bg-red-600 text-center rounded-full hover:bg-white hover:text-red-600 transition duration-200 ease-in" target="_blank">
+                        <a href="https://github.com/positiveworldbd" class="w-10 h-10 leading-10 bg-red-600 text-center rounded-sm hover:bg-white hover:text-red-600 transition duration-200 ease-in" target="_blank">
                             <i class="fa-brands fa-github-alt"></i>
                         </a>
                     </div>
