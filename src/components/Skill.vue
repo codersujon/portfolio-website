@@ -9,34 +9,54 @@
                 <div class="skill__img mb-16 m-auto">
                     <img src="/assets/images/skill/skill.png" alt="Skill">
                 </div>
-                <div class="skill__lists grid grid-cols-4 sm:grid-cols-3 gap-8">
+                <div class="skill__lists grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
                     <div class="skill__item m-auto text-center">
-                        <img src="/assets/images/skill/html.png" alt="html" class="m-auto">
+                        <img src="/assets/images/skill/html.png" alt="html" class="h-24 w-24 m-auto ">
                         <h4 class="capitalize text-2xl">html</h4>
                     </div>
                     <div class="skill__item m-auto text-center">
-                        <img src="/assets/images/skill/css.png" alt="css" class="m-auto">
+                        <img src="/assets/images/skill/css.png" alt="css" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">css</h4>
                     </div>
                     <div class="skill__item m-auto text-center">
-                        <img src="/assets/images/skill/sass.png" alt="sass" class="m-auto">
+                        <img src="/assets/images/skill/sass.png" alt="sass" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">sass</h4>
                     </div>
                     <div class="skill__item m-auto text-center">
-                        <img src="/assets/images/skill/bootstrap.png" alt="bootstrap" class="m-auto">
+                        <img src="/assets/images/skill/bootstrap.png" alt="bootstrap" class="h-24 w-24 selection:m-auto">
                         <h4 class="capitalize text-2xl">bootstrap</h4>
                     </div>
                     <div class="skill__item text-center">
-                        <img src="/assets/images/skill/tailwind.png" alt="tailwind" class="m-auto">
+                        <img src="/assets/images/skill/tailwind.png" alt="tailwind" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">tailwind</h4>
                     </div>
                     <div class="skill__item m-auto text-center">
-                        <img src="/assets/images/skill/js.png" alt="js" class="m-auto">
+                        <img src="/assets/images/skill/js.png" alt="js" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">js</h4>
                     </div>
                     <div class="skill__item m-auto text-center">
-                        <img src="/assets/images/skill/jquery.png" alt="jquery" class="m-auto">
+                        <img src="/assets/images/skill/jquery.png" alt="jquery" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">jquery</h4>
+                    </div>
+                    <div class="skill__item m-auto text-center">
+                        <img src="/assets/images/skill/react.png" alt="react" class="h-24 w-24 m-auto">
+                        <h4 class="capitalize text-2xl">react</h4>
+                    </div>
+                    <div class="skill__item m-auto text-center">
+                        <img src="/assets/images/skill/vue.png" alt="vue" class="h-24 w-24 m-auto">
+                        <h4 class="capitalize text-2xl">vue</h4>
+                    </div>
+                    <div class="skill__item m-auto text-center">
+                        <img src="/assets/images/skill/typescript.png" alt="typescript" class="h-24 w-24 m-auto">
+                        <h4 class="capitalize text-2xl">typescript</h4>
+                    </div>
+                    <div class="skill__item m-auto text-center">
+                        <img src="/assets/images/skill/php.png" alt="php" class="h-24 w-24 m-auto">
+                        <h4 class="capitalize text-2xl">php</h4>
+                    </div>
+                    <div class="skill__item m-auto text-center">
+                        <img src="/assets/images/skill/mysql.png" alt="mysql" class="h-24 w-24 m-auto">
+                        <h4 class="capitalize text-2xl">mysql</h4>
                     </div>
                 </div>
             </div>
