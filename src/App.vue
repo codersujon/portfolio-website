@@ -1,9 +1,11 @@
 <template>
     <HeaderVue/>
+    <FooterVue/>
 </template>
 
 <script>
 import HeaderVue from './layouts/Header/Header.vue';
+import FooterVue from './layouts/Footer/Footer.vue';
 export default {
   name: 'PortfolioWebsiteApp',
 
@@ -14,7 +16,8 @@ export default {
   },
 
   components: {
-    HeaderVue
+    HeaderVue,
+    FooterVue
   },
 
   mounted() {

@@ -3,5 +3,81 @@
 @tailwind utilities;
 
 
+/* GOOGL FONTS */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@100;300;400;500;700;900&display=swap');
 
+/* DEFAULT FRAMWORK START */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
 
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: $body-text-color;
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'DM Sans', sans-serif;
+    margin-top: 0px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    color: inherit;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 38px;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.3;
+    margin-bottom: 15px;
+}
+
+/* DEFAULT FRAMWORK END */
