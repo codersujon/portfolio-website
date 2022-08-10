@@ -1,6 +1,6 @@
 <template>
     <section class="hero py-28">
-        <div class="container mx-auto flex flex-col md:flex-row justify-between 2xl:justify-evenly  items-center">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between 2xl:justify-evenly  items-center px-4">
             <div class="hero__content space-y-3 mb-20 ">
                 <h3 class="font-thin">Hello! <span class="text-red-400">I'm</span></h3>
                 <h1 class="uppercase text-5xl xl:text-6xl"><span class="text-red-500">Md. Sujan </span>    Ahmed</h1>

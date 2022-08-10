@@ -1,7 +1,7 @@
 <template>
     <FooterTopVue/>
     <footer class="footer bg-red-600 text-center py-3">
-        <div class="container mx-auto">
+        <div class="container mx-auto px-4">
             <p class="text-white text-lg m-0">&copy; 2022. All rights reserved by <span class="font-semibold">CoderSujon</span>.</p>
         </div>
     </footer>

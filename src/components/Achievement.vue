@@ -1,6 +1,6 @@
 <template>
     <section class="achiemement py-28 bg-slate-50">
-        <div class="md:container md:mx-auto">
+        <div class="container mx-auto px-4">
             <SectionTitleVue 
                 title="Achievement" 
                 text="Check out my Achievement"

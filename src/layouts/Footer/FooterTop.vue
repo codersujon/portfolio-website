@@ -1,8 +1,8 @@
 <template>
     <section class="footerTop bg-slate-900 text-center">
-        <div class="container mx-auto footerTop__content   py-28">
+        <div class="container mx-auto footerTop__content py-28 px-4">
             <h2 class="text-white font-bold pb-12 text-4xl sm:text-5xl">Let's work together</h2>
-            <div class="footerTop__socials text-white flex flex-col md:flex-row justify-between px-4">
+            <div class="footerTop__socials text-white flex flex-col md:flex-row justify-between">
                 <div class="footerTop__widget text-left my-2 sm:my-4">
                     <span class="capitalize text-slate-100 inline-block mb-1">call</span>
                     <p class="text-2xl lg:text-3xl  font-medium">+8801970 366 446</p>

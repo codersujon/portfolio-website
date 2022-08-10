@@ -1,6 +1,6 @@
 <template>
     <section class="achiemement py-28">
-        <div class="md:container md:mx-auto">
+        <div class="container mx-auto px-4">
             <SectionTitleVue 
                 title="My Skill" 
                 text="Now, I have quite a good grasp in HTML, CSS, SASS, Bootstrap, TailwindCSS, JavaScript, jQuery, React JS, Vue JS, Typescript, PHP, MYSQL, Git, and so on."
