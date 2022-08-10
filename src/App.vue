@@ -1,5 +1,8 @@
 <template>
     <HeaderVue/>
+        <main>
+          <router-view></router-view>
+        </main>
     <FooterVue/>
 </template>
 
