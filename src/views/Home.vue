@@ -2,8 +2,9 @@
    <div>
         <HeroVue/>
         <AboutVue/>
-        <!-- <WorkVue/> -->
-        <!-- <AchievementVue/> -->
+        <WorkVue/>
+        <AchievementVue/>
+        <SkillVue/>
    </div>
 </template>
 
@@ -12,6 +13,7 @@ import HeroVue from '../components/Hero.vue';
 import AboutVue from '../components/About.vue';
 import WorkVue from '../components/Work.vue';
 import AchievementVue from '../components/Achievement.vue';
+import SkillVue from '../components/Skill.vue'
 
 export default {
     name: 'PortfolioWebsiteHome',
@@ -27,6 +29,7 @@ export default {
         AboutVue,
         WorkVue,
         AchievementVue,
+        SkillVue
     },
 
     mounted() {

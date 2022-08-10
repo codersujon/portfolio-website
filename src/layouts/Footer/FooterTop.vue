@@ -1,6 +1,6 @@
 <template>
     <section class="footerTop bg-slate-900 text-center">
-        <div class="footerTop__content md:container md:mx-auto py-16">
+        <div class="footerTop__content md:container md:mx-auto py-28">
             <h2 class="text-white font-bold pb-12 text-4xl sm:text-5xl">Let's work together</h2>
             <div class="footerTop__socials text-white flex justify-between flex-col sm:flex-col md:flex-row px-4">
                 <div class="footerTop__widget text-left my-2 sm:my-4">

@@ -13,5 +13,4 @@
 
 - Single Page Application (SPA)
 - vue-router Install
-    <!-- TODO Use Vue-Router-->
 
