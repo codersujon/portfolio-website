@@ -13,12 +13,12 @@
                         <table class="table-auto">
                             <tbody class="flex">
                                 <tr class="mr-10">
-                                    <td class="font-semibold">City</td>
+                                    <td class="font-semibold"><i class="fa-solid fa-location-dot"></i> City</td>
                                     <td>:</td>
                                     <td>{{personalInfo.city}}</td>
                                 </tr>
                                 <tr>
-                                    <td class="font-semibold ">Email</td>
+                                    <td class="font-semibold "><i class="fa-solid fa-envelope"></i> Email</td>
                                     <td>:</td>
                                     <td>{{personalInfo.email}}</td>
                                 </tr>

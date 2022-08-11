@@ -79,4 +79,8 @@ p {
     margin-bottom: 15px;
 }
 
+ul, li{
+    list-style: none;
+}
+
 /* DEFAULT FRAMWORK END */
