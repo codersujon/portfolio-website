@@ -10,10 +10,10 @@
 
 <script>
 import HeroVue from '../components/Hero.vue';
-import AboutVue from '../components/About.vue';
-import WorkVue from '../components/Work.vue';
-import AchievementVue from '../components/Achievement.vue';
-import SkillVue from '../components/Skill.vue'
+import AboutVue from '../components/About/About.vue';
+import WorkVue from '../components/Work/Work.vue';
+import AchievementVue from '../components/Achievement/Achievement.vue';
+import SkillVue from '../components/Skill/Skill.vue'
 
 export default {
     name: 'PortfolioWebsiteHome',
