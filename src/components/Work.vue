@@ -6,7 +6,7 @@
                 text="Experience without theory is blind, so I have done almost 10+ projects for my local and international clients. Here is a shortlist."
             />
             
-            <div class="work__content pt-20 grid grid-cols-4 gap-8">
+            <div class="work__content pt-20 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
                 <div class="workItem bg-[url('/assets/images/portfolio/Project__bg-1.png')] w-full relative bg-cover">
                     <div class="workItem__img w-96 h-96 cursor-pointer transform hover:scale-110 duration-500">
                     </div>
