@@ -38,6 +38,10 @@
                         <img src="/assets/images/skill/jquery.png" alt="jquery" class="h-24 w-24 m-auto">
                         <h4 class="capitalize text-2xl">jquery</h4>
                     </div>
+                    <div class="skill__item m-auto text-center">
+                        <img src="/assets/images/skill/react.png" alt="react" class="h-24 w-24 m-auto">
+                        <h4 class="capitalize text-2xl">react</h4>
+                    </div>
                 </div>
             </div>
         </div>
