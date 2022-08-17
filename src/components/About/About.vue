@@ -1,7 +1,10 @@
 <template>
    <section class="about py-28 bg-slate-50">
         <div class="container mx-auto px-4">
-            <SectionTitleVue title="About Me" text="Introduce about me."/>
+            <SectionTitleVue 
+                title="About Me" 
+                text="Introduce about me."
+            />
             <AboutContentVue/>
         </div>
    </section>
