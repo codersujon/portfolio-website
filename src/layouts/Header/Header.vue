@@ -14,23 +14,9 @@ export default {
     
     name: 'PortfolioWebsiteHeader',
 
-    data() {
-        return {
-            
-        };
-    },
-
     components:{
         LogoVue,
         NavbarVue
-    },
-
-    mounted() {
-        
-    },
-
-    methods: {
-        
-    },
+    }
 };
 </script>

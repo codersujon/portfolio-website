@@ -20,19 +20,6 @@
 export default {
     name: 'PortfolioWebsiteNavbar',
 
-    data() {
-        return {
-            
-        };
-    },
-
-    mounted() {
-        
-    },
-
-    methods: {
-        
-    },
 };
 </script>
 
